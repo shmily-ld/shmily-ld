@@ -2,7 +2,7 @@
 
 <h2 style="font-family:Cambria; font-weight:bold;">About me</h2>
 
-<ul style="font-family:Cambria; font-weight:bold; font-size:18px;">
+<ul style="font-family:Cambria; font-weight:bold; font-size:20px;">
   <li>🎓 Undergraduate student from China</li>
   <li>🔬 Passionate about <b>Bioinformatics</b> and <b>Deep Learning</b></li>
   <li>💡 Working on <b>drug-target binding affinity prediction</b> and <b>Molecular Docking</b></li>
