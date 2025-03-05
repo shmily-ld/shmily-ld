@@ -7,7 +7,7 @@
   <li>🔬 Passionate about <b><i>Bioinformatics</i></b> and <b><i>Deep Learning</i></b></li>
   <li>💡 Working on <b><i>drug-target binding affinity prediction</i></b> and <b><i>Molecular Docking</i></b></li>
   <li>🖥️ Building models with <b><i>Python and PyTorch</i></b></li>
-  <li>📚 Exploring new AI techniques in computational biology</li>
+  <li>📚 Exploring new <b><i>AI techniques</i></b> in computational biology</li>
   <li>💬 Feel free to ask me anything <a href="https://github.com/shmily-ld/shmily-ld/issues"><b>here</b></a> or reach me via email at <a href="mailto:your-email@example.com"><b>shmily-ld@foxmail.com</b></li>
 </ul>
 
@@ -24,6 +24,11 @@
 <code><img height="20" alt="linux" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png"></code>
 <code><img height="20" alt="git" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
 <code><img height="20" alt="bash" src="https://raw.githubusercontent.com/github/explore/master/topics/bash/bash.png"></code>
+<code><img height="20" alt="opencv" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png"></code>
+<code><img height="20" alt="vscode" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="20" alt="jupyter" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png"></code>
+<code><img height="20" alt="matplotlib" src="https://raw.githubusercontent.com/github/explore/master/topics/matplotlib/matplotlib.png"></code>
+<code><img height="20" alt="scipy" src="https://raw.githubusercontent.com/github/explore/master/topics/scipy/scipy.png"></code>
 
 
 
