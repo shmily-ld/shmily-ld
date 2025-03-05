@@ -1,13 +1,16 @@
-👋 Hi, I'm a undergraduate student from China
+<h1 style="font-family:Cambria; font-weight:bold; font-size:28px;">👋 Hi, I'm an undergraduate student from China~ </h1>
 
-**About me**  
+<h2 style="font-family:Cambria; font-weight:bold;">About me</h2>
 
-- 🎓 Undergraduate student from China  
-- 🔬 Passionate about **Bioinformatics** and **Deep Learning**  
-- 💡 Working on **drug-target binding affinity prediction** and **Molecular Docking**  
-- 🖥️ Building models with **Python and PyTorch**  
-- 📚 Exploring new AI techniques in computational biology  
-- 💬 Feel free to ask me anything [here](https://github.com/shmily-ld/shmily-ld/issues)  
+<ul style="font-family:Cambria; font-weight:bold; font-size:18px;">
+  <li>🎓 Undergraduate student from China</li>
+  <li>🔬 Passionate about <b>Bioinformatics</b> and <b>Deep Learning</b></li>
+  <li>💡 Working on <b>drug-target binding affinity prediction</b> and <b>Molecular Docking</b></li>
+  <li>🖥️ Building models with <b>Python and PyTorch</b></li>
+  <li>📚 Exploring new AI techniques in computational biology</li>
+  <li>💬 Feel free to ask me anything <a href="https://github.com/shmily-ld/shmily-ld/issues"><b>here</b></a></li>
+</ul>
+
 
 
 <code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
