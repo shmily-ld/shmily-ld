@@ -8,7 +8,7 @@
   <li>💡 Working on <b><i>drug-target binding affinity prediction</i></b> and <b><i>Molecular Docking</i></b></li>
   <li>🖥️ Building models with <b><i>Python and PyTorch</i></b></li>
   <li>📚 Exploring new AI techniques in computational biology</li>
-  <li>💬 Feel free to ask me anything <a href="https://github.com/shmily-ld/shmily-ld/issues"><b>here</b></a></li>
+  <li>💬 Feel free to ask me anything <a href="https://github.com/shmily-ld/shmily-ld/issues"><b>here</b></a> or reach me via email at <a href="mailto:your-email@example.com"><b>shmily-ld@foxmail.com</b></li>
 </ul>
 
 
