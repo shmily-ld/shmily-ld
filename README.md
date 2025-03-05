@@ -27,7 +27,6 @@
 <code><img height="20" alt="opencv" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png"></code>
 <code><img height="20" alt="vscode" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="20" alt="jupyter" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png"></code>
-<code><img height="20" alt="matplotlib" src="https://raw.githubusercontent.com/github/explore/master/topics/matplotlib/matplotlib.png"></code>
 <code><img height="20" alt="scipy" src="https://raw.githubusercontent.com/github/explore/master/topics/scipy/scipy.png"></code>
 
 
