@@ -2,11 +2,11 @@
 
 <h2 style="font-family:Cambria; font-weight:bold;">About me</h2>
 
-<ul style="font-family:Cambria; font-weight:bold; font-size:20px;">
+<ul style="font-family:Cambria; font-weight:bold; font-size:23px;">
   <li>🎓 Undergraduate student from China</li>
-  <li>🔬 Passionate about <b>Bioinformatics</b> and <b>Deep Learning</b></li>
-  <li>💡 Working on <b>drug-target binding affinity prediction</b> and <b>Molecular Docking</b></li>
-  <li>🖥️ Building models with <b>Python and PyTorch</b></li>
+  <li>🔬 Passionate about <b><i>Bioinformatics</i></b> and <b><i>Deep Learning</i></b></li>
+  <li>💡 Working on <b><i>drug-target binding affinity prediction</i></b> and <b><i>Molecular Docking</i></b></li>
+  <li>🖥️ Building models with <b><i>Python and PyTorch</i></b></li>
   <li>📚 Exploring new AI techniques in computational biology</li>
   <li>💬 Feel free to ask me anything <a href="https://github.com/shmily-ld/shmily-ld/issues"><b>here</b></a></li>
 </ul>
