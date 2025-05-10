@@ -15,8 +15,6 @@
 
 <code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
 <code><img height="20" alt="pytorch" src="https://raw.githubusercontent.com/github/explore/master/topics/pytorch/pytorch.png"></code>
-<code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"></code>
-<code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"></code>
 <code><img height="20" alt="c++" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png"></code>   
 <code><img height="20" alt="numpy" src="https://raw.githubusercontent.com/github/explore/master/topics/numpy/numpy.png"></code>
 <code><img height="20" alt="linux" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png"></code>
