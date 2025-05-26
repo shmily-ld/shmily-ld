@@ -25,5 +25,5 @@
 | <a href="https://github.com/shmily-ld/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shmily-ld&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="shmily-ld's github stats" /></a> | <a href="https://github.com/shmily-ld/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shmily-ld&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/yuan-fang-shang-deg?theme=light&font=Baloo%20Thambi%202&ext=activity&site=cn)
+![LeetCode Stats](https://leetcard.jacoblin.cool/yuan-fang-shang-deg?theme=light&font=Averia%20Serif%20Libre&ext=activity&site=cn)
 
