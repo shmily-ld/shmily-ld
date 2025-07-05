@@ -13,12 +13,25 @@
 
 
 
-#<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
-#<code><img height="20" alt="pytorch" src="https://raw.githubusercontent.com/github/explore/master/topics/pytorch/pytorch.png"></code>
-#<code><img height="20" alt="c++" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png"></code>   
-#<code><img height="20" alt="numpy" src="https://raw.githubusercontent.com/github/explore/master/topics/numpy/numpy.png"></code>
-#<code><img height="20" alt="git" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
-#<code><img height="20" alt="jupyter" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png"></code>
+<span style="display:inline-block; margin-right:8px;">
+  <code><img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" style="height:16px; vertical-align:middle;"> Python</code>
+</span>
+<span style="display:inline-block; margin-right:8px;">
+  <code><img src="https://raw.githubusercontent.com/github/explore/master/topics/pytorch/pytorch.png" style="height:16px; vertical-align:middle;"> PyTorch</code>
+</span>
+<span style="display:inline-block; margin-right:8px;">
+  <code><img src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" style="height:16px; vertical-align:middle;"> C++</code>
+</span>
+<span style="display:inline-block; margin-right:8px;">
+  <code><img src="https://raw.githubusercontent.com/github/explore/master/topics/numpy/numpy.png" style="height:16px; vertical-align:middle;"> NumPy</code>
+</span>
+<span style="display:inline-block; margin-right:8px;">
+  <code><img src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" style="height:16px; vertical-align:middle;"> Git</code>
+</span>
+<span style="display:inline-block; margin-right:8px;">
+  <code><img src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png" style="height:16px; vertical-align:middle;"> Jupyter</code>
+</span>
+
 
 
 
