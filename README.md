@@ -14,25 +14,25 @@
 
 
 <span style="display:inline-block; margin-right:8px;">
-  <code><img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" style="height:16px; vertical-align:middle;"></code>
+  <code><img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" style="height:24px; vertical-align:middle;"></code>
 </span>
 <span style="display:inline-block; margin-right:8px;">
-  <code><img src="https://raw.githubusercontent.com/github/explore/master/topics/pytorch/pytorch.png" style="height:16px; vertical-align:middle;"></code>
+  <code><img src="https://raw.githubusercontent.com/github/explore/master/topics/pytorch/pytorch.png" style="height:24px; vertical-align:middle;"></code>
 </span>
 <span style="display:inline-block; margin-right:8px;">
-  <code><img src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" style="height:16px; vertical-align:middle;"></code>
+  <code><img src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" style="height:24px; vertical-align:middle;"></code>
 </span>
 <span style="display:inline-block; margin-right:8px;">
-  <code><img src="https://raw.githubusercontent.com/github/explore/master/topics/numpy/numpy.png" style="height:16px; vertical-align:middle;"></code>
+  <code><img src="https://raw.githubusercontent.com/github/explore/master/topics/numpy/numpy.png" style="height:24px; vertical-align:middle;"></code>
 </span>
 <span style="display:inline-block; margin-right:8px;">
-  <code><img src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" style="height:16px; vertical-align:middle;"></code>
+  <code><img src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" style="height:24px; vertical-align:middle;"></code>
 </span>
 <span style="display:inline-block; margin-right:8px;">
-  <code><img src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png" style="height:16px; vertical-align:middle;"></code>
+  <code><img src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png" style="height:24px; vertical-align:middle;"></code>
 </span>
 
-
+<br><br>
 
 
 
