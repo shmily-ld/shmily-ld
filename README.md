@@ -4,7 +4,7 @@
 
 <ul style="font-family:Cambria; font-weight:bold; font-size:24px;">
   <li>🎓 <b><i>Undergraduate student</i></b> from China</li>
-  <li>🔬 Passionate about <b><i>Bioinformatics</i></b> and <b><i>Deep Learning</i></b></li>
+  <li>🔬 Passionate about <b><i>Bioinformatics</i></b> and <b><i>AI for Science</i></b></li>
   <li>💡 Working on <b><i>drug-target binding affinity prediction</i></b> and <b><i>Molecular Docking</i></b></li>
   <li>🖥️ Building models with <b><i>Python and PyTorch</i></b></li>
   <li>📚 Exploring new <b><i>AI techniques</i></b> in computational biology</li>
