@@ -1,4 +1,4 @@
-<h1 style="font-family:Cambria; font-weight:bold; font-size:28px;">👋 Hi, Welcome to shmily-ld's little corner~ </h1>
+<h1 style="font-family:Cambria; font-weight:bold; font-size:28px;">👋 Hi, Welcome to ld's little corner~ </h1>
 
 <h2 style="font-family:Cambria; font-weight:bold;">About me</h2>
 
